@@ -9,8 +9,8 @@ A multiplayer, real time tic tac toe game (Front) create using React. Player can
 <li>TailwindCss</li>
 
 ## UI Design Ressouces
-<li>shorturl.at/cprFU</li>
-<li>shorturl.at/OU045</li>
+<li>https://shorturl.at/cprFU</li>
+<li>https://shorturl.at/OU045</li>
 
 ## How to clone the project
 
