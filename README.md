@@ -9,8 +9,8 @@ A multiplayer, real time tic tac toe game (Front) create using React. Player can
 <li>TailwindCss</li>
 
 ## UI Design Ressouces
-<li>https://www.figma.com/file/tDuW3V9UBQa1824UhszI5K/Tic-Tac-Toe-(Community)?node-id=1%3A2&t=4ViumBBqRpcy4qkG-0</li>
-<li>https://www.frontendmentor.io/challenges/tic-tac-toe-game-Re7ZF_E2v</li>
+<li>shorturl.at/cprFU</li>
+<li>shorturl.at/OU045</li>
 
 ## How to clone the project
 
